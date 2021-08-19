@@ -42,7 +42,11 @@ footer {
 
 
 
-
+.top-bottom-section .community-section .text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
 .community-section .text {
